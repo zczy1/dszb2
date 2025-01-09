@@ -22,10 +22,10 @@ source_urls = [
     "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
     "https://fm1077.serv00.net/SmartTV.m3u",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
-    "https://raw.githubusercontent.com/zczy1/dszb/refs/heads/main/iptv.txt"
-    "https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u"
-    "https://raw.githubusercontent.com/chuzjie/wuihui/refs/heads/main/new.txt"
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+    "https://raw.githubusercontent.com/zczy1/dszb/refs/heads/main/iptv.txt",
+    "https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
+    "https://raw.githubusercontent.com/chuzjie/wuihui/refs/heads/main/new.txt",
     "https://raw.githubusercontent.com/zczy1/ipzhibo/refs/heads/master/output/result.txt"
     
 ]
@@ -73,5 +73,6 @@ epg_urls = [
     "http://epg.aptvapp.com/xml",
     "https://epg.pw/xmltv/epg_CN.xml",
     "https://epg.pw/xmltv/epg_HK.xml",
-    "https://epg.pw/xmltv/epg_TW.xml"
+    "https://epg.pw/xmltv/epg_TW.xml",
+    "https://epg.112114.xyz/pp.xml"
 ]
