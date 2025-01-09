@@ -24,6 +24,7 @@ source_urls = [
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
     "https://raw.githubusercontent.com/zczy1/dszb/refs/heads/main/iptv.txt"
+    "https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u"
 ]
 
 url_blacklist = [
